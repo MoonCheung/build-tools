@@ -1,0 +1,1 @@
+export const main = 'hello 这是来自main.js';

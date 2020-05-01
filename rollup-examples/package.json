@@ -32,6 +32,8 @@
     "serve": "^11.3.0"
   },
   "dependencies": {
+    "jquery": "^3.5.0",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.11"
   }
 }
