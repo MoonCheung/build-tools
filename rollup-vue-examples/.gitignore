@@ -10,3 +10,7 @@ yarn-error.log*
 # ignore lock files
 yarn.lock
 package-lock.json
+
+public/home/bundle.css
+public/home/bundle.js
+public/home/bundle.js.map
