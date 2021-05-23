@@ -1,0 +1,10 @@
+{
+	"extends": "eslint:recommended",
+	"rules": {
+		"no-console": [
+			"warn",
+			{ "allow": ["warn", "error"] }
+		],
+		"no-undef": "error"
+	}
+}
